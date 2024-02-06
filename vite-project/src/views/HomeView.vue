@@ -9,7 +9,7 @@ v-for="destination in destinations"
 </template>
 
 <script setup>
-import DestCard from "./components/DestCard.vue";
+import DestCard from "@/components/DestCard.vue";
 const destinations = 
 [
         {
