@@ -26,7 +26,7 @@ function increment(){
 /* scoped means no other object will be effected */
 
 img{
-    width:20px;
+    width:250px;
     height:300px;
     object-fit:cover;
 }
