@@ -13,41 +13,74 @@ import DestCard from "@/components/DestCard.vue";
 const destinations = 
 [
         {
-          name: "Venetian Renaissance",
-          International: true,
-          price: 1300,
-          img: "https://images.unsplash.com/photo-1498307833015-e7b400441eb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80&quot;",
+          name: "Soft Pinch Liquid Blush",
+          brand: "Rare Beauty",
+          color: "Grateful~ Bright Red",
+          powder: false,
+          price: "$23.00",
+          img: "https://www.sephora.com/productimages/sku/s2362101-main-zoom.jpg?imwidth=612",
         },
         {
-          name: "Swiss Mountain Getaway",
-          International: true,
-          price: 800,
-          img: "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1476&q=80&quot;",
+          name: "Soft Pinch Liquid Blush",
+          brand: "Rare Beauty",
+          color: "Happy~ Cool Pink",
+          powder: false,
+          price: "$23.00",
+          img: "https://www.sephora.com/productimages/sku/s2362085-main-zoom.jpg?imwidth=612",
         },
         {
-          name: "Ibizan Coastal Vacation",
-          International: true,
-          price: 1200,
-          img: "https://images.unsplash.com/photo-1547138494-97041dec734b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80&quot;",
+          name: "Soft Pinch Liquid Blush",
+          brand: "Rare Beauty",
+          color: "Encourage~ Neutral Pink",
+          powder: false,
+          price: "$23.00",
+          img: "https://www.sephora.com/productimages/sku/s2518991-main-zoom.jpg?imwidth=612",
         },
         {
-          name: "Hawaiian Vacation",
-          International: false,
-          price: 900,
-          img: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1173&q=80&quot;",
+          name: "Crème & Powder Blush Duo",
+          brand: "Patrick Ta",
+          color: "She's Vibrant!~ Bright Coral",
+          powder: true,
+          price: "$36.00",
+          img: "https://www.sephora.com/productimages/sku/s2555894-main-zoom.jpg?imwidth=612",
         },
         {
-          name: "Cascade Mountains",
-          International: false,
-          price: 400,
-          img: "https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80&quot;",
+          name: "Crème & Powder Blush Duo",
+          brand: "Patrick Ta",
+          color: "She's Giving~ Cool Pink",
+          powder: true,
+          price: "$36.00",
+          img: "https://www.sephora.com/productimages/sku/s2699353-main-zoom.jpg?imwidth=612",
         },
         {
-          name: "Egyptian Exploration",
-          International: true,
-          price: 800,
-          img: "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80&quot;",
+          name: "Crème & Powder Blush Duo",
+          brand: "Patrick Ta",
+          color: "She's A Doll~ Neutral Pink",
+          powder: true,
+          price: "$23.00",
+          img: "https://www.sephora.com/productimages/sku/s2555886-main-zoom.jpg?imwidth=612",
         },
+        {
+          name: "Better Than Sex Volumizing & Lengthening Mascara",
+          brand: "Too Faced",
+          color: "Black",
+          price: "$29.00",
+          img: "https://www.sephora.com/productimages/sku/s1533439-main-zoom.jpg?imwidth=612",
+        },
+        {
+          name: "Better Than Sex Volumizing & Lengthening Mascara",
+          brand: "Too Faced",
+          color: "Brown",
+          price: "$29.00",
+          img: "https://www.sephora.com/productimages/sku/s2600864-main-zoom.jpg?imwidth=612",
+        },
+
+
+
+
+
+
+
       ]
 </script>
 
