@@ -193,6 +193,24 @@ const destinations =
           price: "$40.00",
           img: "https://www.sephora.com/productimages/sku/s1925460-main-zoom.jpg?imwidth=612",
         },
+        {
+          name: "Tattoo Liner Liquid Eyeliner", 
+          brand: "KVD Beauty",
+          color: "Black",
+          price: "$25.00",
+          img: "https://www.sephora.com/productimages/sku/s1177567-main-zoom.jpg?imwidth=612",
+        },
+        {
+          name: "Tattoo Liner Liquid Eyeliner", 
+          brand: "KVD Beauty",
+          color: "Brown",
+          price: "$25.00",
+          img: "https://www.sephora.com/productimages/sku/s1671361-main-zoom.jpg?imwidth=612",
+        },
+
+
+
+
 
 
 
