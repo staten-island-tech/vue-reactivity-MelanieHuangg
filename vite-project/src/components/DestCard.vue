@@ -1,11 +1,11 @@
 <template>
-    <div>
+    <div class="cards">
         <h2>{{ Destination.name }}</h2>
         <img :src="Destination.img" alt="">
         <h3>{{ Destination.color }}</h3>
         <h3>{{ Destination.price }}</h3>
         <h3>{{ Clicked }}</h3>
-        <button @click="increment">Click Me</button>
+        <button @click="increment">Add To Cart</button>
     </div>
 </template>
 
@@ -32,5 +32,12 @@ img{
     height:300px;
     object-fit:cover;
 }
+
+.cards{
+   border: solid black;
+   padding: 5%;
+}
+
+
 
 </style>
