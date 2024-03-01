@@ -7,6 +7,14 @@
         <h3>{{ Clicked }}</h3>
         <button @click="increment">Add To Cart</button>
     </div>
+    <div class="cards">
+        <h2>{{ Blush.name }}</h2>
+        <img :src="Blush.img" alt="">
+        <h3>{{ Blush.color }}</h3>
+        <h3>{{ Blush.price }}</h3>
+        <h3>{{ Clicked }}</h3>
+        <button @click="increment">Add To Cart</button>
+    </div>
 </template>
 
 <script setup>
