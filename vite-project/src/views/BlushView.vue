@@ -61,3 +61,7 @@ const blush =
           img: "https://www.sephora.com/productimages/sku/s2555886-main-zoom.jpg?imwidth=612",
         },
       ]
+
+      </script>
+
+<style scoped></style>
