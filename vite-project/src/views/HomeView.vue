@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="items">
 <DestCard 
 v-for="destination in destinations" 
 :key="destination.name"
@@ -208,19 +208,15 @@ const destinations =
           img: "https://www.sephora.com/productimages/sku/s1671361-main-zoom.jpg?imwidth=612",
         },
 
-
-
-
-
-
-
-
-
-
-
-
-
       ]
 </script>
 
-<style scoped></style>
+<style scoped>
+
+.items{
+  font-style: bold;
+  color: blue;
+}
+
+
+</style>

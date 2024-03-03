@@ -31,11 +31,14 @@ img{
     width:250px;
     height:300px;
     object-fit:cover;
+    
 }
 
 .cards{
    border: solid black;
    padding: 5%;
+   background-color: rgb(195, 191, 177);
+   width:400px;
 }
 
 
